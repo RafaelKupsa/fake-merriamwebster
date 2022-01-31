@@ -1,5 +1,6 @@
 # fake-merriamwebster
 Repository for the @FakeMerriam Twitterbot
+
 twitter.com/user/FakeMerriam
 
 To use the bot, follow those steps:
@@ -11,4 +12,5 @@ To use the bot, follow those steps:
 
 ______
 Seminar Assignment at LMU München, Computational Creativity Seminar
+
 Project by Qiqi Chen, Rafael Kupsa
