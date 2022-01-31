@@ -1,0 +1,11 @@
+tweepy==4.5.0
+torch==1.10.1
+nltk==3.6.5
+spacy==3.2.1
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz#egg=en_core_web_sm
+gensim==4.1.2
+pyinflect==0.5.1
+scipy==1.7.3
+numpy==1.20.3
+Pillow==8.2.0
+openai==0.13.0
